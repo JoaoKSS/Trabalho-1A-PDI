@@ -58,12 +58,25 @@ Isolamento do exato espaço em background e a implementação da Matemática do 
 
 ## ⚙️ Como Executar o Projeto
 
-1. Certifique-se de ter o Python 3.* instalado.
-2. Instale as bibliotecas científicas básicas executando no terminal:
+1. Certifique-se de ter o Python 3.* instalado. Clone este repositório e acesse a pasta do projeto.
+2. Crie um ambiente virtual virgem para evitar conflitos de versão:
+   ```bash
+   python3 -m venv .venv
+   ```
+3. Ative a máquina virtual criada:
+   * **No Linux/Mac:**
+     ```bash
+     source .venv/bin/activate
+     ```
+   * **No Windows:**
+     ```cmd
+     .venv\Scripts\activate
+     ```
+4. Com a **(.venv)** ativada no seu terminal, instale as bibliotecas científicas básicas executando:
    ```bash
    pip install numpy matplotlib jupyter
    ```
-3. Inicie a interface do Jupyter em seu terminal:
+5. Inicie a interface nativa do Jupyter no seu terminal:
    ```bash
    jupyter notebook
    ```
