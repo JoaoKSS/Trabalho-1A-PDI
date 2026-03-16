@@ -8,7 +8,7 @@ Repositório destinado ao trabalho prático de **Processamento Digital de Imagen
 
 ## 📸 Demonstração das Implementações
 
-### 1. Fatiamento de Matrizes (Slicing)
+### 1. Fatiamento de Matrizes
 Geração algorítmica de matrizes baseadas em NumPy, criando recortes e degradês sem nenhum loop, finalizando com a mescla condicional (`np.where`).
 
 <p align="center">
