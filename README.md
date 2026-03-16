@@ -58,13 +58,12 @@ Isolamento do exato espaço em background e a implementação da Matemática do 
 
 ## ⚙️ Como Executar o Projeto
 
-1. É recomendado possuir um ambiente virtual ativado (ex: `python -m venv .venv`).
-2. Instale as dependências executando:
+1. Certifique-se de ter o Python 3.* instalado.
+2. Instale as bibliotecas científicas básicas executando no terminal:
    ```bash
-   pip install -r requirements.txt
+   pip install numpy matplotlib jupyter
    ```
-3. Inicie o Jupyter no seu terminal:
+3. Inicie a interface do Jupyter em seu terminal:
    ```bash
    jupyter notebook
    ```
-4. Navegue localmente pela aba do navegador e abra o arquivo mágico: **`Trabalho_PDI.ipynb`**. Execute em cascata *Run All Cells* e veja as plotagens acontecendo.
