@@ -4,8 +4,6 @@
 
 Repositório destinado ao trabalho prático de **Processamento Digital de Imagens (PDI)**, focado em demonstrar a capacidade de manipulação e análise de imagens puramente através de cálculos matriciais da biblioteca NumPy.
 
-**⚠️ Restrição do Projeto:** É expressamente *proibido* o uso de laços de repetição (`for` ou `while`). Todo o código foi escrito rodando operações vetorizadas em massa para ganho máximo de performance (Slicing, Broadcasting e Masks).
-
 ---
 
 ## 📸 Demonstração das Implementações
