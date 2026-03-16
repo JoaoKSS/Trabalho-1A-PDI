@@ -1,4 +1,4 @@
-# Processamento Digital de Imagens: Manipulação Vetorial com NumPy 🚀
+# Processamento Digital de Imagens🚀
 
 ![Badge](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python) ![Badge](https://img.shields.io/badge/NumPy-Vetorizado-orange?style=flat&logo=numpy) ![Badge](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
 
